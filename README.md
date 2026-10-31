@@ -363,7 +363,7 @@ The management UI is then available at http://localhost:15672 (`guest` / `guest`
 ## 🗂️ Repository Layout
 
 ```text
-📦 TPs_Middlewares_Mohamed_Amine_Grissa
+📦 java-middleware-rmi-rabbitmq
 ├── 🔗 Java RMI
 │   ├── Welcome/                  # Hello remote world
 │   ├── RMIStudentGrade/          # Parameters over the wire
